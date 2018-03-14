@@ -1,0 +1,10 @@
+insert into PHARMACY (ph_id, ph_name, ph_address) values (601, 'Alpha', '0958 Crescent Oaks Terrace');
+insert into PHARMACY (ph_id, ph_name, ph_address) values (602, 'Shreeram', '9 Bellgrove Crossing');
+insert into PHARMACY (ph_id, ph_name, ph_address) values (603, 'Daynnight', '205 Garrison Alley');
+insert into PHARMACY (ph_id, ph_name, ph_address) values (604, 'Mediseen', '8 Rutledge Terrace');
+insert into PHARMACY (ph_id, ph_name, ph_address) values (605, 'Wellness', '40 Hanover Point');
+insert into PHARMACY (ph_id, ph_name, ph_address) values (606, 'Sai', '6 Westend Park');
+insert into PHARMACY (ph_id, ph_name, ph_address) values (607, 'Apollo', '8293 Oneill Place');
+insert into PHARMACY (ph_id, ph_name, ph_address) values (608, 'Dialmedico', '9 Sachtjen Trail');
+insert into PHARMACY (ph_id, ph_name, ph_address) values (609, 'Medplus', '4600 Veith Point');
+insert into PHARMACY (ph_id, ph_name, ph_address) values (610, 'Medmart', '15 Merrick Hill');

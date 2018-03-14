@@ -1,0 +1,10 @@
+insert into DOCTOR (doc_id, doc_name, speciality) values (101, 'Dun', 'Psychologist');
+insert into DOCTOR (doc_id, doc_name, speciality) values (102, 'Serene', 'Psychiatrist');
+insert into DOCTOR (doc_id, doc_name, speciality) values (103, 'Lexy', 'Psychiatrist');
+insert into DOCTOR (doc_id, doc_name, speciality) values (104, 'Serene', 'Psychiatrist');
+insert into DOCTOR (doc_id, doc_name, speciality) values (105, 'Kyla', 'Psychiatrist');
+insert into DOCTOR (doc_id, doc_name, speciality) values (106, 'Coraline', 'Physician');
+insert into DOCTOR (doc_id, doc_name, speciality) values (107, 'Lucille', 'Psychologist');
+insert into DOCTOR (doc_id, doc_name, speciality) values (108, 'Margarethe', 'Physician');
+insert into DOCTOR (doc_id, doc_name, speciality) values (109, 'Krystal', 'Physician');
+insert into DOCTOR (doc_id, doc_name, speciality) values (110, 'Emmye', 'Psychiatrist');

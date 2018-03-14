@@ -1,0 +1,10 @@
+insert into COMPANY (c_id, cname, c_address) values (501, 'Meijer Distribution Inc', '9 Sachtjen Hill');
+insert into COMPANY (c_id, cname, c_address) values (502, 'Nelco Laboratories, Inc.', '5 7th Avenue');
+insert into COMPANY (c_id, cname, c_address) values (503, 'American Sales Company', '07 Hallows Plaza');
+insert into COMPANY (c_id, cname, c_address) values (504, 'REMEDYREPACK INC.', '014 Anthes Lane');
+insert into COMPANY (c_id, cname, c_address) values (505, 'Antigen Laboratories, Inc.', '0 Kingsford Point');
+insert into COMPANY (c_id, cname, c_address) values (506, 'Target Corporation', '7 Tennyson Street');
+insert into COMPANY (c_id, cname, c_address) values (507, 'Physicians Total Care, Inc.', '968 Bonner Parkway');
+insert into COMPANY (c_id, cname, c_address) values (508, 'Wockhardt Limited', '282 Onsgard Alley');
+insert into COMPANY (c_id, cname, c_address) values (509, 'DAVA Pharmaceuticals, Inc.', '53076 Monica Pass');
+insert into COMPANY (c_id, cname, c_address) values (510, 'Nature Nutraceuticals', '2702 Hazelcrest Junction');
